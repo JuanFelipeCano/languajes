@@ -1,0 +1,16 @@
+{
+    "home" : {
+        "content": {
+            "title": "English",
+            "name": "Edgar Allan Poe.",
+            "text": "The betraying heart",
+            "description": "... higher... higher! And in the meantime the men continued chatting placidly and smiling. Was it possible that they did not hear? Good God! No, no! Of course they heard and suspected! They knew... and they were mocking my horror! Yes, I thought so and I think so today! But anything was preferable to that agony! Anything would be more tolerable than that scorn! I couldn't stand their hypocritical smiles any longer! I felt I had to scream or die and then.... again... listen.... louder... louder... louder... louder... louder! - Enough of pretending, you evil ones! I howled - I confess I killed him! Get those boards up! There... there! Where his horrible heart is beating!"
+        },
+        "buttons": {
+            "es": "Spanish",
+            "en": "English",
+            "fr": "French",
+            "de": "German"
+        }
+    }
+}

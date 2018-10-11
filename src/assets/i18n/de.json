@@ -1,0 +1,16 @@
+{
+    "home" : {
+        "content": {
+            "title": "Deutsche",
+            "name": "Edgar Allan Poe.",
+            "text": "Das verratene Herz",
+            "description": ".... höher... höher! Und in der Zwischenzeit unterhielten sich die Männer weiterhin friedlich und lächelnd. War es möglich, dass sie es nicht gehört haben? Großer Gott! Nein, nein, nein! Natürlich haben sie es gehört und vermutet! Sie wussten es.... und sie verspotteten meinen Schrecken! Ja, das habe ich mir gedacht und das denke ich heute! Aber alles war dieser Qual vorzuziehen! Alles wäre erträglicher als diese Verachtung! Ich konnte ihr scheinheiliges Lächeln nicht mehr ertragen! Ich fühlte, dass ich schreien oder sterben musste und dann.... wieder.... hör zu.... lauter... lauter... lauter... lauter... lauter... lauter... lauter! - Genug des Vortäuschens, ihr Bösen! Ich heulte - ich gestehe, ich habe ihn getötet! Nehmt die Bretter hoch! Da... da! Wo sein schreckliches Herz schlägt!"
+        },
+        "buttons": {
+            "es": "Spanisch",
+            "en": "Englisch",
+            "fr": "Frankreich",
+            "de": "Deutsche"
+        }
+    }
+}

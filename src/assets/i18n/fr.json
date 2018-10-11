@@ -1,0 +1,16 @@
+{
+    "home" : {
+        "content": {
+            "title": "Français",
+            "name": "Edgar Allan Poe.",
+            "text": "Le cœur traître",
+            "description": "... plus haut.... plus haut ! Et pendant ce temps, les hommes ont continué à bavarder tranquillement et à sourire. Était-il possible qu'ils n'aient pas entendu ? Bon Dieu ! Non, non, non ! Bien sûr qu'ils ont entendu et soupçonné ! Ils savaient... et ils se moquaient de mon horreur ! Oui, je le pensais et je le pense aujourd'hui ! Mais tout était préférable à cette agonie ! Tout serait plus tolérable que ce mépris ! Je ne supportais plus leurs sourires hypocrites ! Je sentais que je devais crier ou mourir et puis... encore... écouter... plus... plus... plus... plus... plus... plus... plus... plus... plus ! - Assez fait semblant, les méchants ! J'ai hurlé - j'avoue l'avoir tué ! Lève ces planches ! Là.... là ! Là où son horrible cœur bat !"
+        },
+        "buttons": {
+            "es": "Espagnol",
+            "en": "Anglais",
+            "fr": "Français",
+            "de": "Allemands"
+        }
+    }
+}

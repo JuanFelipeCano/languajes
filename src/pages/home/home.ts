@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { NavController } from 'ionic-angular';
+import { TranslateService } from '@ngx-translate/core';
 
 @Component({
   selector: 'page-home',
@@ -7,8 +7,16 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
-  constructor(public navCtrl: NavController) {
+  constructor(private _translate: TranslateService) {
 
+  }
+
+  public ionViewDidLoad() : void {
+    this._translate.use('en');
+  }
+
+  private _translateLanguage(language: string) : void {
+    this._translate.use(language);
   }
 
 }

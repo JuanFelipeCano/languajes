@@ -1,0 +1,16 @@
+{
+    "home" : {
+        "content": {
+            "title": "Español",
+            "name": "Edgar Allan Poe.",
+            "text": "El corazón delator",
+            "description": "... más alto... más alto! Y entre tanto los hombres seguían charlando plácidamente y sonriendo. ¿Era posible que no oyeran? ¡Santo Dios! ¡No, no! ¡Claro que oían y que sospechaban!  ¡Sabían... y se estaban burlando de mi horror! ¡Sí, así lo pensé y así lo pienso hoy! ¡Pero cualquier cosa era preferible que aquella agonía! ¡Cualquier cosa sería más tolerable que aquel escarnio! ¡No podía soportar más tiempo sus sonrisas hipócritas! ¡Sentí que tenía que gritar o morir y entonces... otra vez... escuchen... más fuerte... más fuerte... más fuerte... más fuerte! - ¡Basta ya de fingir, malvados! -aullé - ¡Confieso que lo maté! ¡Levanten esos tablones! ¡Ahí... ahí! ¡Donde está latiendo su horrible corazón!"
+        },
+        "buttons": {
+            "es": "Español",
+            "en": "Inglés",
+            "fr": "Francés",
+            "de": "Alemán"
+        }
+    }
+}

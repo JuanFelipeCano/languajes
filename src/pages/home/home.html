@@ -1,14 +1,54 @@
 <ion-header>
-  <ion-navbar>
+  <ion-navbar color="primary">
     <ion-title>
-      Ionic Blank
+      {{ 'home.content.title' | translate }}
     </ion-title>
   </ion-navbar>
 </ion-header>
 
 <ion-content padding>
-  The world is your oyster.
-  <p>
-    If you get lost, the <a href="http://ionicframework.com/docs/v2">docs</a> will be your guide.
-  </p>
+
+  <ion-card>
+
+    <ion-card-header>
+      {{ 'home.content.text' | translate }}
+    </ion-card-header>
+  
+    <ion-card-content>
+      {{ 'home.content.description' | translate }}
+
+      <br>
+
+      <p text-right>{{ 'home.content.name' | translate }}</p>
+    </ion-card-content>
+  
+  </ion-card>
+
+  <ion-grid>
+    <ion-row>
+
+      <ion-col>
+        <button ion-button block (click)="_translateLanguage('es')">{{ 'home.buttons.es' | translate }}</button>
+      </ion-col>
+
+      <ion-col>
+        <button ion-button block (click)="_translateLanguage('en')">{{ 'home.buttons.en' | translate }}</button>
+      </ion-col>
+
+    </ion-row>
+
+    <ion-row>
+
+      <ion-col>
+          <button ion-button block (click)="_translateLanguage('fr')">{{ 'home.buttons.fr' | translate }}</button>
+        </ion-col>
+        
+        <ion-col>
+          <button ion-button block (click)="_translateLanguage('de')">{{ 'home.buttons.de' | translate }}</button>
+        </ion-col>
+
+    </ion-row>
+    
+  </ion-grid>
+
 </ion-content>
