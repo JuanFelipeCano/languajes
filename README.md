@@ -1,3 +1,3 @@
 # Languajes
-Ejemplo de una aplicación con soporte para múltiples idiomas con Ngx-translate.
+Ejemplo de una aplicación con soporte para múltiples idiomas (internacionalización) con Ngx-translate.
 
